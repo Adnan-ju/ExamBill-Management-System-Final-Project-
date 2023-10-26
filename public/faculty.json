@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Liton Jude Rozario",
+        "image": "https://juniv.edu/storage/image/teacher/114_Liton-d84373.png",
+        "rank": "Professor"
+      },
+      
+      {
+        "id": 2,
+        "name": "Dr. Mohammad Shorif Uddin",
+        "image": "https://juniv.edu/storage/image/teacher/9dMYcow8JF8g5kaz370wAIUJN97YHaFxvvxR9Ztu.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Jugal Krishna Das",
+        "image": "https://juniv.edu/storage/image/teacher/qV1yxeG5L7q9bATUxP9fMqK9QVOycMItAJZD3eJ0.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 4,
+        "name": "Mohammad Hanif Ali",
+        "image": "https://juniv.edu/storage/image/teacher/81_hanif-6b5233.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Mohammad Zahidur Rahman",
+        "image": "https://juniv.edu/storage/image/teacher/206_bg1HHv2l.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 6,
+        "name": "Dr. Md. Imdadul Islam",
+        "image": "https://juniv.edu/storage/image/teacher/89_Imdadul-3fd971.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 7,
+        "name": "Dr. Md. Golam Moazzam",
+        "image": "https://juniv.edu/storage/image/teacher/gmvOTE1YBVHXgiq4m8kNTh0pXSgpZ7DZet1V7NRa.png",
+        "rank": "Professor"
+      },
+      {
+        "id": 8,
+        "name": "Dr. Md. Humayun Kabir",
+        "image": "https://juniv.edu/storage/image/teacher/EI95HNO2JFpzYp1ZayOqXQNBJoU3qJ4lKk6SmiS0.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 9,
+        "name": "Dr. Md Abul Kalam Azad",
+        "image": "https://juniv.edu/storage/image/teacher/j4LvsEmsTH4jozk3nZH0tgM1sBTDWf9vQR42Od9n.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 10,
+        "name": "Dr. Abu Sayed Md. Mostafizur Rahaman",
+        "image": "https://juniv.edu/storage/image/teacher/e5Og72xM6ziVhQm05xvu9rFVWOUTnsTih451EfgP.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 11,
+        "name": "Dr. Md. Ezharul Islam",
+        "image": "https://juniv.edu/storage/image/teacher/136_K24PSxYK.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 12,
+        "name": "Dr. Israt Jahan",
+        "image": "https://juniv.edu/images/default-img-person.jpg",
+        "rank": "Professor"
+      },
+      {
+        "id": 13,
+        "name": "Dr. Morium Akter",
+        "image": "https://juniv.edu/storage/image/teacher/jf0xRblodAJn6P2BkRuI415ByVJLyWuT3kCO65xw.jpg",
+        "rank": "Associate Professor"
+      },
+      {
+        "id": 14,
+        "name": "Amina Khatun",
+        "image": "https://juniv.edu/storage/image/teacher/8_7rfJDJh1.jpg",
+        "rank": "Associate Professor"
+      },
+      {
+        "id": 15,
+        "name": "Dr. Md. Musfique Anwar",
+        "image": "https://juniv.edu/storage/image/teacher/uKHlJzKPFjKEJfgcn558M5BLCFQwsyd0es3mZJe7.jpg",
+        "rank": "Associate Professor"
+      },
+      {
+        "id": 16,
+        "name": "Sarnali Basak",
+        "image": "https://juniv.edu/storage/image/teacher/224_9fdcaefe-961a-448f-b301-3b9859e6a213-2-ebc9c4.jpeg",
+        "rank": "Associate Professor"
+      },
+      {
+        "id": 17,
+        "name": "Tahsina Hashem",
+        "image": "https://juniv.edu/storage/image/teacher/2SETGQc0gvQndM69IPG1FTqiuqUvaDyG6x3eddZZ.jpeg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id": 18,
+        "name": "Md. Rafsan Jani",
+        "image": "https://juniv.edu/storage/image/teacher/652_15940371_10208030809400100_3892333301193557324_n-130dbe.jpg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id": 19,
+        "name": "Sabrina Sharmin",
+        "image": "https://juniv.edu/storage/image/teacher/JVLQ5XgzHZLyJVKessLBGfcrGCeHjxg3gZ373q7F.jpg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id": 20,
+        "name": "Mohammad Ashraful Islam",
+        "image": "https://juniv.edu/storage/image/teacher/9756_asraful-621284.jpg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id": 21,
+        "name": "Bulbul Ahammad",
+        "image": "https://juniv.edu/storage/image/teacher/9798_bulbul-f20def.jpg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id": 22,
+        "name": "Anup Majumder",
+        "image": "https://juniv.edu/storage/image/teacher/9751_anup-e63d0d.jpg",
+        "rank": "Assistant Professor"
+      },
+      {
+        "id":23,
+        "name": "Nadia Afrin Ritu",
+        "image": "https://juniv.edu/storage/image/teacher/hnikVqXUuc2RUVHjyaMtP8reo2OoIwFmppnZLBQI.jpg",
+        "rank": "Lecturer"
+      },
+      {
+        "id":24,
+        "name": "Samsun Nahar Khandakar",
+        "image": "https://juniv.edu/storage/image/teacher/C7NmVxsXSfCfiU77UQ4khr3qZjl98LW42K4PYeF5.jpg",
+        "rank": "Lecturer"
+      }
+]

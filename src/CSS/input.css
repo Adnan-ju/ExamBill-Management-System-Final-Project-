@@ -1,0 +1,76 @@
+.form-group.select-container{
+    font-size: 20px;
+   
+  }
+  .form-group
+  {
+    font-size: 20px;
+  }
+  .form-control{
+    font-size: 16px;
+    border-radius: 8px;
+    border-width: 3px;
+    border-color: rgb(202, 199, 199);
+  }
+  
+  #selectedDepartment{
+  
+    font-size: 16px;
+    }
+    #selectedSemester{
+    
+      font-size: 16px;
+     
+      }
+      #selectedDepartment:hover{
+        background-color: #f0f0f0; 
+        cursor: pointer; 
+      }
+  
+      #selectedSemester:hover{
+        background-color: #f0f0f0; 
+        cursor: pointer; 
+      }
+  
+  .panel {
+      
+      border: 3px solid #010810; 
+      padding: 5px;
+      margin: 100px;
+      width: 75%; 
+      background-color: #eae7e7ee; 
+      
+    }
+    
+   #numPanels:hover{
+    background-color:#f0f0f0; 
+    cursor: pointer; 
+   }
+  
+  .panel:hover {
+    background-color:rgb(209, 208, 208); 
+    cursor: pointer; 
+  }
+  #PanelNo{
+  font-weight: bold;
+  text-align: center;
+  color:black;
+  font-size: 25px;
+  }
+  
+  
+    .calculate-button {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 10px;
+    margin-left: 150px;
+    font-size: 16px;
+    
+  }
+  
+  .calculate-button:hover {
+    transform: scale(1.2); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  }
+  
+  
+  

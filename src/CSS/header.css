@@ -1,0 +1,21 @@
+.navbar{
+
+    background-color:  rgb(56, 56, 159);
+}
+
+.topic{
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    color: beige;
+    background-color: rgb(136, 136, 237);
+    border: 2px solid white;
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

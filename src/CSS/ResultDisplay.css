@@ -1,0 +1,130 @@
+ResultDisplay.css
+/*
+.result-display {
+  text-align: center;
+  background-color: white;
+}
+
+.logo-and-title-container {
+  display: flex;
+  align-items: center;
+  margin-left: 350px;
+}
+.heading{
+  display: flex;
+  flex-direction:  column;
+   align-items: center;
+   color:black 
+}
+.result-table {
+  width: 100%;
+  border-collapse: collapse;
+  
+}
+
+.result-table th{
+  border: 1px solid #080808;
+  padding: 8px;
+ 
+}
+.result-table td {
+  border: 1px solid #090909;
+  padding: 8px;
+}
+
+.result-table th {
+   
+  background-color: #2a262600;
+}
+
+/* Add CSS styles to replace inline styles in ResultDisplay.jsx 
+
+/* Styles for the logo-and-title-container */
+/*.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+*/
+.result-display.text-center{
+  background-color: white;
+  display:block;
+  align-items: center;
+}
+
+.logo-and-title-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+.title-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
+#heading-content{
+  color: black;
+}
+
+#section-title{
+  color:black;
+  font-weight: bold;
+  align-items: center;
+  text-decoration: underline;
+  margin:20px;
+}
+
+.department-info{
+  text-align: left;
+  color:black;
+  margin:15px;
+}
+
+.result-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size:large;
+}
+
+.result-table th{
+  border: 1px solid #080808;
+  padding: 8px;
+ 
+}
+.result-table td {
+  border: 1px solid #090909;
+  padding: 8px;
+}
+
+.text-right {
+  color:black;
+  font-size:large; 
+}
+.text-center {
+  color: black; 
+  font-size:large;
+  
+}
+.section-divider {
+  border: none;
+  border-top: 2px solid black;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.signatures{
+  margin:50px;
+  display: flex;
+  justify-content: space-between;
+  font-size:large;
+  color:#080808
+}
+.declaration{
+  font-size: large;
+  color:black;
+}
